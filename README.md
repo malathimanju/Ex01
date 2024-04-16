@@ -1,4 +1,5 @@
 # Ex.01 BASIC NETWORKING COMMANDS
+##DATE: 16/04/2024
 ## AIM
   To understand the working of basic commands in networking.
 
@@ -28,8 +29,16 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
+![getmac](https://github.com/malathimanju/Ex01/assets/165985843/372d8086-4eb2-487f-9869-8b5766e1dfba)
 
-![alt text](image.png)
-![alt text](image-1.png)
+
+![ipconfig all](https://github.com/malathimanju/Ex01/assets/165985843/806d52cd-bfa6-456c-8c07-59acb0102b1f)
+
+
+![ipconfig](https://github.com/malathimanju/Ex01/assets/165985843/a01bbb41-22ed-4a12-9040-a3dbf1b62b6c)
+
+
+
+
 ## RESULT
   The basic commands in networking are executed successfully.
